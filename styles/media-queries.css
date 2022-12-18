@@ -7,6 +7,7 @@
 
     #login {
         width: 85vw;
+        height: 270px;
     }
 
     #login > #imagem {
@@ -22,7 +23,11 @@
     }
 
     #formulario > p {
-        font-size: 1em;
+        font-size: 0.8em;
+    }
+
+    input[type=submit] {
+        margin-top: 10px;
     }
 }
 
@@ -33,6 +38,7 @@
 
     #login {
         width: 950px;
+        height: 290px;
     }
 
     #login > #imagem {
